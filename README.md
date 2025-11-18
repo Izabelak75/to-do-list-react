@@ -21,7 +21,7 @@ You can complete or remove tasks as you progress through your to do.
 
 ## Demo
 
-A live demo will be available after deployment.
+[Link to the Demo website](https://izabelak75.github.io/to-do-list-react/)
 
 ## Technologies Used
 
