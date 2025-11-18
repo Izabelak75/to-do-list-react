@@ -1,6 +1,35 @@
-# Getting Started with Create React App
+# To-Do List App
+
+A simple and intuitive to-do list application designed to help you manage your daily tasks effortlessly.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Features
+
+- **Add new tasks** quickly and easily.
+- **View all your tasks** in one organized list.
+- **Mark tasks as completed** or remove them when you’re done.
+- **Hide completed tasks** with the **Hide Completed** button.
+- **Complete all tasks at once** using the **Complete All** button.
+
+## Getting Started
+
+In the **Add New Task** section, type your task and press **Enter** (or click the **Add** button).
+Your task will appear in the **Task List** section below.
+
+You can complete or remove tasks as you progress through your to do.
+
+## Demo
+
+A live demo will be available after deployment.
+
+## Technologies Used
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React**
+- **Create React App**
 
 ## Available Scripts
 
@@ -13,11 +42,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
