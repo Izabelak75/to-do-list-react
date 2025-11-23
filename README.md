@@ -21,7 +21,7 @@ You can complete or remove tasks as you progress through your to do.
 
 ## Demo
 
-![Demo](public/to-do-list-demo.gif)
+![Demo](public/to-do-list-updated-demo.gif)
 [Link to the Demo website](https://izabelak75.github.io/to-do-list-react/)
 
 ## Technologies Used
