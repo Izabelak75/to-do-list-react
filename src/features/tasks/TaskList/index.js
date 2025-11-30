@@ -16,4 +16,4 @@ const TaskList = ({ tasks, hideDone, removeTask, toggleTaskDone }) => (
   </List>
 );
 
-export default TasksList;
+export default TaskList;
