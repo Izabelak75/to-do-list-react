@@ -27,7 +27,7 @@ function Tasks() {
       <Section
         title="Lista zadań"
         body={
-          <TasksList
+          <TaskList
             tasks={tasks}
             hideDone={hideDone}
             removeTask={removeTask}
