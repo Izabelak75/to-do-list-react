@@ -11,7 +11,7 @@ root.render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
       <GlobalStyle />
-      <App />
+      <Tasks />
     </ThemeProvider>
   </React.StrictMode>
 );
