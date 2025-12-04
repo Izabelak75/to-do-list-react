@@ -1,13 +1,12 @@
- [
-      {
-        content: 'pranie',
-        done: false,
-        id: 'btgBBtXxrPT6fpJNxOg-E'
-      },
-      {
-        content: 'zakupy',
-        done: false,
-        id: 'ATShevBwlsmnxco2oAFw9'
-      }
-    ],
-   
+[
+  {
+    "content": "pranie",
+    "done": false,
+    "id": "btgBBtXxrPT6fpJNxOg-E"
+  },
+  {
+    "content": "zakupy",
+    "done": false,
+    "id": "ATShevBwlsmnxco2oAFw9"
+  }
+]
