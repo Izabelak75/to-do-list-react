@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Features
 
 - **Add new tasks** quickly and easily.
+- **View the list of existing tasks**
 - **View all your tasks** in one organized list.
 - **Mark tasks as completed** or remove them when you’re done.
 - **Hide completed tasks** with the **Hide Completed** button.
@@ -21,7 +22,7 @@ You can complete or remove tasks as you progress through your to do.
 
 ## Demo
 
-![Demo](public/to-do-list-updated-demo.gif)
+![Demo](public/to-do-list-new-demo.gif)
 [Link to the Demo website](https://izabelak75.github.io/to-do-list-react/)
 
 ## Technologies Used
@@ -31,6 +32,7 @@ You can complete or remove tasks as you progress through your to do.
 - **JavaScript**
 - **React**
 - **Create React App**
+- **React Router**
 
 ## Available Scripts
 
